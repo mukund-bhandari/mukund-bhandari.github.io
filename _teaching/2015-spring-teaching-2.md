@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "BIOL101"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/2014-Spring
+venue: "Stephen F Austin State University, Department of Biology"
+date: 2014-08-15
+location: "Nacogdoches, USA"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
