@@ -21,4 +21,4 @@ Mukund received his graduate degree from Stephen F. Austin State University, Nac
 
 For more info
 ------
-More info can be found on [Linkedin](https://www.linkedin.com/in/mukundbhandari/).
+Please contact on [Linkedin](https://www.linkedin.com/in/mukundbhandari/).
