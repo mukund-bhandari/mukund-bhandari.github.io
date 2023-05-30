@@ -9,12 +9,3 @@ location: "Nacogdoches, USA"
 ---
 
 Instructed undergrad BIOL101 course to the class of above 50 students.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
