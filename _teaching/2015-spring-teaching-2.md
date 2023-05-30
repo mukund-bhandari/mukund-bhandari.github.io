@@ -12,10 +12,7 @@ Instructed undergrad BIOL101 course to the class of above 50 students.
 
 Heading 1
 ======
-Instructed experimental concept on undergrad biology lab in group and individually if needed
-Demonstrated use of laboratory equipment and its principle using my technical knowledge
-Prepared quizzes, conducted exams, evaluated test papers and recorded performance
-Ensured laboratory rules were in compliance with GLP, Biosafety level-1
+
 Heading 2
 ======
 
