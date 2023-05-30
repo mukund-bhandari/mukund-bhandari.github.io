@@ -8,7 +8,7 @@ date: 2013-08-15
 location: "Nacogdoches, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Instructed undergrad BIOL101 course to the class of above 50 students.
 
 Heading 1
 ======
