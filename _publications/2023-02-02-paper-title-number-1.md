@@ -6,7 +6,7 @@ excerpt: ''
 date: 2023-02-02
 venue: 'Journal of Vascular Surgery'
 paperurl: ''
-citation: ''
+#citation: ''
 ---
 We sought to systematically evaluate the outcomes of IVC patency over short- to intermediate-term follow-up for patients undergoing primary repair of IVC and to assess the association with survival.
 
