@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-More complete list of publications, please refer to my [Google Scholar Profile](https://scholar.google.com/citations?user=IftooZgAAAAJ&hl=en)
+For the complete list of publications, please [download my CV here](https://mukund-bhandari.github.io/files/cv.pdf) or refer to my [Google Scholar Profile](https://scholar.google.com/citations?user=IftooZgAAAAJ&hl=en).
 
 ## Featured Publications:
 
