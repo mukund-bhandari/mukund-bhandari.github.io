@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Mukund Bhandari is a dedicated researcher at UTHealth San Antonio, Texas, precisely affiliated with the Department of Population Health Sciences and the prestigious Greehey Children Cancer Research Institute. As a bioinformatician, he possesses a profound acumen in Cancer Biology, supplemented by some proficiency in biostatistics and data science. Through the harmonious amalgamation of his research undertakings, comprehensive training, and scholastic pursuits, Mukund adeptly synthesizes the domains of biology, computer science, and statistics, thereby fortifying his scholarly foundation.
+Mukund Bhandari is a dedicated researcher at UTHealth San Antonio, Texas, at the prestigious Greehey Children Cancer Research Institute. As a bioinformatician, he possesses a profound acumen in Cancer Biology, supplemented by proficiency in biostatistics and data science. Through the harmonious amalgamation of his research undertakings, comprehensive training, and scholastic pursuits, Mukund adeptly synthesizes the domains of biology, computer science, and statistics, thereby fortifying his scholarly foundation. 
+He utilizes bioinformatics, computational biology, statistics, machine learning, and cloud computing to decipher biological information from multi-omics sequencing data, clinical data, and other large public databases such as The Cancer Genome Atlas (TCGA). He has investigated different cancer types including sarcomas using transcriptomics, epigenomics, genomics and single-cell sequencing data to investigate tumor profiles and molecular targets, explore tumor heterogeneity and the immune microenvironment, and uncover factors driving metastasis and treatment resistance. Additionally, he has experience and an understanding of basic and translational research in cancer biology, protein biochemistry, drug discovery, and biotechnology.
 
 Research Work
 ======
@@ -17,7 +18,12 @@ His research endeavors leverage the realms of cancer genomics, computational bio
 Educational and Training Background
 ======
 
-Mukund received his graduate degree from Stephen F. Austin State University, Nacogdoches, Texas, USA and B.Tech degree from Kathmandu University, Nepal. He has worked as Researcher in Department of Pharmacology and Physiology at UTMB, Galveston Texas.
+Mukund received his PhD degree from University of Texas Health Science Center at San Antonio, TX, USA, Master of Science in Biotechnology from Stephen F. Austin State University, Nacogdoches, Texas, USA and B.Tech degree in Biotechnology from Kathmandu University, Nepal. He has also worked as Researcher in the Department of Pharmacology and Physiology at UTMB, Galveston Texas.
+
+Technical Skills
+======
+
+Multi-Omics NGS Analysis (bulk RNA-seq, single-cell RNA-seq, whole exome sequencing, whole genome sequencing, ATAC-sequencing, ChIP-sequencing), Programming (R, Python, Unix), Bioinformatics pipelines, High Performance Computing (In-house/AWS/AZURE), Conda, Docker, Slurm, Git, Statistical Modelling
 
 For more info
 ------
