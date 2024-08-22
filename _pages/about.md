@@ -35,7 +35,7 @@ Bioinformatics databases | TCGA,cbioPortal, ClinicalOmicsDB, EMBL, UniProt, PDB,
 
 Other                    | Package management (Conda, mamba), version control(Git), Containerization (Docker, Singularity)
 
-Workload Management      | (Slurm),
+Workload Management      | Slurm
 
 Workflow management      | Snakemake, Nextflow
 
