@@ -25,25 +25,25 @@ Mukund received his PhD degree from University of Texas Health Science Center at
 Notable Technical Skills
 ======
 
-Programming languages: R, Python, Java, Shell, Perl
+Programming languages | R, Python, Java, Shell, Perl
 
-Major tools | software: Biopython, Bioconductor, edgeR/limma, 
+Major tools/software | software: Biopython, Bioconductor, edgeR/limma
 
-Bioinformatics tools: samtools, bcftools, STAR, Kallisto, DESeq2, Seurat, GATK, CNVkit, mutect2
+Bioinformatics tools | samtools, bcftools, STAR, Kallisto, DESeq2, Seurat, GATK, CNVkit, mutect2
 
-Bioinformatics databases: TCGA,cbioPortal, ClinicalOmicsDB, EMBL, UniProt, PDB, UCSC
+Bioinformatics databases | TCGA,cbioPortal, ClinicalOmicsDB, EMBL, UniProt, PDB, UCSC
 
-Package management (Conda, mamba), version control(Git), Containerization (Docker, Singularity) 
+Other | Package management (Conda, mamba), version control(Git), Containerization (Docker, Singularity)
 
-Workload Management: (Slurm)
+Workload Management| (Slurm),
 
-Workflow management: Snakemake, Nextflow
+Workflow management| Snakemake, Nextflow
 
-Statistical analysis: correlation, t-test, ANOVA, modeling (linear & non-linear), 
+Statistical analysis | correlation, t-test, ANOVA, modeling (linear & non-linear)
 
-Machine (supervised & unsupervised) learning | AI : scikit-learn, Tensorflow, PyTorch, 
+Machine learning/AI | scikit-learn, Tensorflow, PyTorch
 
-Computing: HPC, AWS, AZURE
+Computing| HPC, AWS, AZURE
 
 For more info
 ------
