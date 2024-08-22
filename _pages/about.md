@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Mukund Bhandari is a dedicated researcher at UTHealth San Antonio, Texas, at the prestigious Greehey Children Cancer Research Institute. As a bioinformatician, he possesses a profound acumen in Cancer Biology, supplemented by proficiency in biostatistics and data science. Through the harmonious amalgamation of his research undertakings, comprehensive training, and scholastic pursuits, Mukund adeptly synthesizes the domains of biology, computer science, and statistics, thereby fortifying his scholarly foundation. 
-He utilizes bioinformatics, computational biology, statistics, machine learning, and cloud computing to decipher biological information from multi-omics sequencing data, clinical data, and other large public databases such as The Cancer Genome Atlas (TCGA). He has investigated different cancer types including sarcomas using transcriptomics, epigenomics, genomics and single-cell sequencing data to investigate tumor profiles and molecular targets, explore tumor heterogeneity and the immune microenvironment, and uncover factors driving metastasis and treatment resistance. Additionally, he has experience and an understanding of basic and translational research in cancer biology, protein biochemistry, drug discovery, and biotechnology.
+Mukund Bhandari is a Computational Biologist-II at UT Southwestern Medical Center, Dallas, TX. He has 5+ years of research experience in multi-omics, NGS analysis, data science, and machine learning. He is proficient in Python, R, Java, major bioinformatics tools and software. 
+
+As a bioinformatician, he possesses a profound acumen in Cancer Biology, supplemented by proficiency in biostatistics and data science. Through the harmonious amalgamation of his research undertakings, comprehensive training, and scholastic pursuits, Mukund adeptly synthesizes the domains of biology, computer science, and statistics, thereby fortifying his scholarly foundation. 
+He utilizes bioinformatics, computational biology, statistics, machine learning, and cloud computing to decipher biological information from multi-omics sequencing data, clinical data, and other large public databases such as The Cancer Genome Atlas (TCGA). He has investigated different cancer types including sarcomas using transcriptomics, epigenomics, genomics and single-cell sequencing data to investigate tumor profiles and molecular targets, explore tumor heterogeneity and the immune microenvironment, and uncover factors driving metastasis and treatment resistance. Additionally, he has indepth understanding of basic and translational research in cancer biology, protein biochemistry, drug discovery, and biotechnology.
 
 Research Work
 ======
@@ -20,10 +22,19 @@ Educational and Training Background
 
 Mukund received his PhD degree from University of Texas Health Science Center at San Antonio, TX, USA, Master of Science in Biotechnology from Stephen F. Austin State University, Nacogdoches, Texas, USA and B.Tech degree in Biotechnology from Kathmandu University, Nepal. He has also worked as Researcher in the Department of Pharmacology and Physiology at UTMB, Galveston Texas.
 
-Technical Skills
+Notable Technical Skills
 ======
 
-Multi-Omics NGS Analysis (bulk RNA-seq, single-cell RNA-seq, whole exome sequencing, whole genome sequencing, ATAC-sequencing, ChIP-sequencing), Programming (R, Python, Unix), Bioinformatics pipelines, High Performance Computing (In-house/AWS/AZURE), Conda, Docker, Slurm, Git, Statistical Modelling
+• Programming languages: R, Python, Java, Shell, Perl
+• Major tools | software: Biopython, Bioconductor, edgeR/limma, 
+• Bioinformatics tools: samtools, bcftools, STAR, Kallisto, DESeq2, Seurat, GATK, CNVkit, mutect2
+• Bioinformatics databases: TCGA,cbioPortal, ClinicalOmicsDB, EMBL, UniProt, PDB, UCSC
+• Package management (Conda, mamba), version control(Git), Containerization (Docker, Singularity) 
+• Workload Management: (Slurm)
+• Workflow management: Snakemake, Nextflow
+• Statistical analysis: correlation, t-test, ANOVA, modeling (linear & non-linear), 
+• Machine (supervised & unsupervised) learning | AI : scikit-learn, Tensorflow, PyTorch, 
+• Computing: HPC, AWS, AZURE
 
 For more info
 ------
