@@ -26,14 +26,23 @@ Notable Technical Skills
 ======
 
 Programming languages: R, Python, Java, Shell, Perl
+
 Major tools | software: Biopython, Bioconductor, edgeR/limma, 
+
 Bioinformatics tools: samtools, bcftools, STAR, Kallisto, DESeq2, Seurat, GATK, CNVkit, mutect2
+
 Bioinformatics databases: TCGA,cbioPortal, ClinicalOmicsDB, EMBL, UniProt, PDB, UCSC
+
 Package management (Conda, mamba), version control(Git), Containerization (Docker, Singularity) 
+
 Workload Management: (Slurm)
+
 Workflow management: Snakemake, Nextflow
+
 Statistical analysis: correlation, t-test, ANOVA, modeling (linear & non-linear), 
+
 Machine (supervised & unsupervised) learning | AI : scikit-learn, Tensorflow, PyTorch, 
+
 Computing: HPC, AWS, AZURE
 
 For more info
