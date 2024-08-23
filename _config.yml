@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Mukund Bhandari"
   avatar           : "profile.png"
-  bio              : "Cancer Genomics, Computational Biology, Bioinformatics, Biostatistics, Clinical Research, Big Data Science"
-  location         : "UTHealth San Antonio"
+  bio              : "Computational Biology, Bioinformatics, Nextflow, Clinical NGS pipelines, Multiomics, TCR profiling, R, Python, Java, Biostat, Machine Learning, AI"
+  location         : "UT Southwestern Medical Center"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=mukund+bhandari&sort=date"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=IftooZgAAAAJ&view_op=list_works"
