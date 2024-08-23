@@ -27,7 +27,7 @@ Notable Technical Skills
 
 Programming languages    | R, Python, Java, Shell, Perl
 
-Major tools/software     | software: Biopython, Bioconductor, edgeR/limma
+Major tools/software     | Biopython, Bioconductor, edgeR/limma
 
 Bioinformatics tools     | samtools, bcftools, STAR, Kallisto, DESeq2, Seurat, GATK, CNVkit, mutect2
 
